@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406587372994",
+    "project_id": "onyx-glazing-334916",
+    "storage_bucket": "onyx-glazing-334916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406587372994:android:d32f4786e945fdfe10d25b",
+        "android_client_info": {
+          "package_name": "com.example.myapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406587372994-3ees3num24v0saqlb5fqn3hlsndjlivh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG3QpkKvWnpf3G7WpMFXBR3WGUIiBrR7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406587372994-3ees3num24v0saqlb5fqn3hlsndjlivh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
